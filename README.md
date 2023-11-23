@@ -1,49 +1,49 @@
-                                                  عنوان المشروع: "TaskMate: تطبيق إدارة المهام الشخصية"
+Project Title: “TaskMate: Personal Task Management App”
                                                                                                
- هو تطبيق إدارة المهام الذي يهدف إلى مساعدة المستخدمين في تنظيم وإدارة مهامهم اليومية بشكل فعال. 
-و يساعدهم  على تحسين تنظيمهم الشخصي وزيادة إنتاجيتهم في إدارة مهامهم اليومية.
-المتطلبات:
-- يتطلب تشغيل التطبيق نظام تشغيل iOS أو Android.
-- يحتاج التطبيق جهاز جوال
-- محرر  اكواد Android Studio 
-- لغة برمجة Java 
-- قاعدة بيانات من نوع sqlite
--مكاتب espresso-core material ، recyclerview
+  It is a task management application that aims to help users organize and manage their daily tasks effectively.
+It helps them improve their personal organization and increase their productivity in managing their daily tasks.
+Requirements:
+- The application requires iOS or Android operating system to operate.
+- The application requires a mobile device
+- Android Studio code editor
+- Java programming language
+- SQLite database
+-Offices espresso-core material, recyclerview
 
-الوظائف:
-- إنشاء وتنظيم قوائم المهام والمهام الفردية.
-- تحديد المهام 
-- حذف مهام سابقة أو التعديل عليها في أي وقت. 
+Jobs:
+- Create and organize to-do lists and individual tasks.
+- Defining tasks
+- Delete or modify previous tasks at any time.
 
-تعليمات التثبيت:
-1. قم بتحميل التطبيق 
-2. قم بتثبيت التطبيق على جهازك.
-3. الدخول إلى التطبيق 
-4. ابدأ في إضافة مهامك وتنظيمها.
+Installation instructions:
+1. Download the application
+2. Install the application on your device.
+3. Log in to the application
+4. Start adding and organizing your tasks.
 
-دليل الاستخدام:
-- بمجرد تسجيل الدخول، ستجد شاشة رئيسية تعرض قوائم المهام الخاصة بك.
-- لإضافة مهمة جديدة، انقر على زر "إضافة مهمة" وأدخل التفاصيل اللازمة.
-- لتحديد مهمة كهامة، اختر خيار "تحديد كهامة" وحدد الموعد النهائي.
-- يمكنك مشاركة المهام مع الآخرين عن طريق إضافة مستخدمين آخرين إلى المهمة.
-- يمكنك تتبع تقدم المهام والاطلاع على الإحصائيات من خلال الشاشة الرئيسية.
+User's Manual:
+-Once you log in, you will find a home screen displaying your to-do lists.
+- To add a new task, click on the “Add Task” button and enter the necessary details.
+- To select a task as important, choose the “Select as important” option and specify the deadline.
+- You can share tasks with others by adding other users to the task.
+- You can track the progress of tasks and see statistics from the main screen.
 
-باستخدام TaskMate، - يمكن للمستخدمين إنشاء قوائم مهام مختلفة بناءً على الأولويات والمواعيد النهائية، مما يساعدهم على تنظيم وترتيب أعمالهم بشكل فعال.
-- يمكن للمستخدمين تحديد المهام الهامة وتحديد مواعيدها لضمان أنها تتم في الوقت المحدد.
-- يمكن للمستخدمين مشاركة المهام مع الزملاء أو أفراد العائلة وتعيين المهام المشتركة، مما يساعد في تعزيز التعاون وإكمال المهام بشكل مشترك.
-- يمكن للمستخدمين تتبع تقدم المهام والاطلاع على الإحصائيات حول الإنجازات، مما يساعدهم على قياس أدائهم وتحسينه.
+With TaskMate, users can create different to-do lists based on priorities and deadlines, which helps them organize and arrange their work effectively.
+- Users can identify and schedule important tasks to ensure they are completed on time.
+- Users can share tasks with colleagues or family members and assign common tasks, which helps promote collaboration and complete tasks jointly.
+- Users can track task progress and see statistics about achievements, which helps them measure and improve their performance.
 
-باختصار، TaskMate هو تطبيق مفيد لإدارة المهام يساعد المستخدمين على تحسين تنظيمهم الشخصي وزيادة إنتاجيتهم في إدارة مهامهم اليومية.
+In short, TaskMate is a useful task management app that helps users improve their personal organization and increase their productivity in managing their daily tasks.
 
-المساهمين
+Contributors
 
-المساهم الاول : رزان
+The first contributor: Razan
 
-المساهم الثاني : لمى
+Second contributor: Lama
 
 
-معلومات التواصل
+Contact Information
 
-الاول: 444816536@kku.edu.sa
+First: 444816536@kku.edu.sa
 
-الثاني: 444816535@kk.edu.sa
+Second: 444816535@kk.edu.sa
